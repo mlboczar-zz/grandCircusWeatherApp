@@ -1,0 +1,9 @@
+header {
+    display: flex;
+    background-color: lightgray;
+    color: darkgreen;
+    justify-content: flex-start;
+}
+h1 {
+    margin: 0.5em;
+}
