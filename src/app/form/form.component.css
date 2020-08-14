@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    
+}
+.form {
+    margin: 1em;
+    padding: 2em;
+    box-shadow: .5em .5em 1em 0em rgba(65, 65, 65, 0.75);
+}
+label, input {
+    display: block;
+    flex: 1 1 0px;
+}
+.label-input {
+    font-weight: bold;
+}
+p {
+    margin: 0;
+}
+button {
+    width: 100%;
+    display: block;
+    background-color: white;
+}
